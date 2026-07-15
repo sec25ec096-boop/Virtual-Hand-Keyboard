@@ -66,7 +66,7 @@ python main.py
 
 ---
 
-## 🎮 How It Works
+## How It Works
 
 1. Open the application.
 2. Allow webcam access.
@@ -89,7 +89,7 @@ python main.py
 
 ---
 
-## 👤 Author
+## Author
 
 **Prithikasree P**
 
