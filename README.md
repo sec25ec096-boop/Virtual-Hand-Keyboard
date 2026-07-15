@@ -76,16 +76,6 @@ python main.py
 
 ---
 
-## 📸 Demo
-
-You can add screenshots or a screen recording of the project here.
-
-Example:
-
-```
-demo.gif
-screenshot.png
-```
 
 ---
 
